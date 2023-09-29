@@ -2,7 +2,7 @@
 
 ## Description
 
-This module challege is about meeting acessiblity standards for the Horiseon website which is a marketing , where website can be optimized for search engines.
+This module challege is about meeting acessiblity standards for the Horiseon website which is a marketing agency , where the website can be optimized for search engines.
 
 ## Task needed to achieve this module
 
