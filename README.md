@@ -16,6 +16,7 @@ This module challege is about meeting acessiblity standards for the Horiseon web
 
 * Title elements contain a concise, descriptive title
 
+
 ## Installation
 
 N/A
@@ -23,6 +24,14 @@ N/A
 ## Usage 
 
 N/A
+
+## Output of the website
+
+(assets/images/output.png)
+
+## Link to deployed application
+
+(https://kurresailakshmareddy.github.io/edxbootcamp_Modulechallenge1/)
 
 ## License
 
