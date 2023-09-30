@@ -27,7 +27,10 @@ N/A
 
 ## Output of the website
 
-(assets/images/output.png)
+```md
+![alt text](assets/images/output.png)
+```
+
 
 ## Link to deployed application
 
